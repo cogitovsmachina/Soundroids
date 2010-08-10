@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Soundroids BETA</string>
+    <string name="app_name">Soundroids</string>
+       
+    <string-array name="nombre_botones">
+	    <item>Crickets</item>
+	    <item>Drama</item>
+	    <item>Chewbacca</item>
+	    
+	    <item>Noooo!!</item>
+	    <item>Doh</item>
+	    <item>Jaja</item>
+	    
+	    <item>Sad</item>
+	    <item>Trololo</item>
+	    <item>Sparta</item>
+	    
+	    <item>Zelda</item>
+	    <item>Funny walk</item>
+	    <item>Bad Drums</item>
+	    
+		<item>Bazzinga</item>
+		<item>R2d2</item>
+		<item>Bird Word</item>
+
+		<item>Net Porn</item>
+		<item>KameHame</item>
+		<item>Burned</item>
+		
+		<item>Chan!</item>
+		<item>Chan Chan!</item>
+		<item>Evil Laugh</item>
+		
+		<item>Aleluya</item>
+		<item>Keybrd Cat</item>
+		<item>Lalala</item>
+		
+		<item>Mario</item>
+		<item>Beisball</item>
+		<item>Muppets</item>
+		
+		<item>Penny</item>
+		<item>ShhAhh!</item>
+		<item>PacMan</item>
+		
+		
+	    
+	    
+    </string-array>
+    
+    
+   
+</resources>
